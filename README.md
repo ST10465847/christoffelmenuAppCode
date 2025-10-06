@@ -39,7 +39,6 @@ iOS Simulator or Android Emulator
 Quick Start
 Clone the repository
 bash
-git clone https://github.com/your-username/christoffels-menu-manager.git
 cd christoffels-menu-manager
 
 Install dependencies
